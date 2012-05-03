@@ -2,7 +2,9 @@
 
 int main()
 {
-	printf("Hello World\n");
+	int i;
+	i = 9
+	printf("Hello World, here is %d\n", i);
 	return 0;
 }
 
